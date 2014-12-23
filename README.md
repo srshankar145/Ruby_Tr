@@ -1,2 +1,2 @@
-Ruby_Tr
-=======
+Ruby Trainings
+==============
